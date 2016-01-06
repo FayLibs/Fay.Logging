@@ -7,12 +7,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Fey Logging Library")]
-[assembly: AssemblyDescription("Core library for use with other Fey Logging Libraries.")]
+[assembly: AssemblyTitle("Fay Logging Library")]
+[assembly: AssemblyDescription("A base library containing the definitions of a delegate based logging API")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Rodney S. Foley")]
-[assembly: AssemblyProduct("Fey Logging Library")]
-[assembly: AssemblyCopyright("Copyright ©  2015 Rodney S. Foley")]
+[assembly: AssemblyProduct("Fay Logging Library")]
+[assembly: AssemblyCopyright("Copyright © 2015 Rodney S. Foley")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

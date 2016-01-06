@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Fey Logging</id>
+    <id>FayLogging</id>
     <version>1.0.0</version>
+    <title>Fay Logging</title>
     <authors>Rodney S. Foley</authors>
     <owners>Rodney S. Foley</owners>
     <licenseUrl>http://raw.githubusercontent.com/FayLibs/FayLogging/master/LICENSE.txt</licenseUrl>
@@ -13,7 +14,7 @@
     <description>This library contains the definitions of a delegate based logging API that can be used as a facade for an existing logging framework.</description>
 	<language>en-US</language>
     <releaseNotes>Initial Release</releaseNotes>
-    <copyright>Copyright 2016</copyright>
-    <tags>Fey Logging Delegate Logging Logger Log tracing logfiles</tags>
+    <copyright>Copyright © 2015 Rodney S. Foley</copyright>
+    <tags>fay faylogging logging delegate logger log tracing logfiles api facade library</tags>
   </metadata>
 </package>
