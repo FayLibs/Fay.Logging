@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<package >
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Fay.Logging</id>
     <version>0.9.0</version>
     <title>Fay Logging</title>
     <authors>Rodney S. Foley</authors>
     <owners>Rodney S. Foley</owners>
-    <licenseUrl>https://github.com/FayLibs/FayLogging/blob/master/LICENCE.txt</licenseUrl>
-    <projectUrl>http://github.com/FayLibs/FayLogging</projectUrl>
+    <licenseUrl>https://github.com/FayLibs/Fay.Logging/blob/master/LICENCE.txt</licenseUrl>
+    <projectUrl>http://github.com/FayLibs/Fay.Logging</projectUrl>
     <iconUrl>http://raw.githubusercontent.com/FayLibs/FayAssets/master/Images/FayLogo64.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 	  <summary>A base library containing the definitions of a delegate based logging API</summary>
