@@ -1,20 +1,24 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>FayLogging</id>
+    <id>Fay.Logging</id>
     <version>0.9.0</version>
     <title>Fay Logging</title>
     <authors>Rodney S. Foley</authors>
     <owners>Rodney S. Foley</owners>
-    <licenseUrl>http://raw.githubusercontent.com/FayLibs/FayLogging/master/LICENSE.txt</licenseUrl>
+    <licenseUrl>https://github.com/FayLibs/FayLogging/blob/master/LICENCE.txt</licenseUrl>
     <projectUrl>http://github.com/FayLibs/FayLogging</projectUrl>
     <iconUrl>http://raw.githubusercontent.com/FayLibs/FayAssets/master/Images/FayLogo64.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<summary>A base library containing the definitions of a delegate based logging API</summary>
+	  <summary>A base library containing the definitions of a delegate based logging API</summary>
     <description>This library contains the definitions of a delegate based logging API that can be used as a facade for an existing logging framework.</description>
-	<language>en-US</language>
+	  <language>en-US</language>
     <releaseNotes>Initial Release</releaseNotes>
     <copyright>Copyright © 2015 Rodney S. Foley</copyright>
     <tags>fay faylogging logging delegate logger log tracing logfiles api facade library</tags>
   </metadata>
+  <files>
+    <file src=".\src\Fay.Logging\bin\Release\Fay.Logging.dll" target="lib\portable-net45+win8+netcore50+MonoAndroid10+MonoTouch10+Xamarin.iOS10" />
+    <file src=".\src\Fay.Logging\bin\Release\Fay.Logging.XML" target="lib\portable-net45+win8+netcore50+MonoAndroid10+MonoTouch10+Xamarin.iOS10" />
+  </files>
 </package>
